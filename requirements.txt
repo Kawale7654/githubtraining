@@ -3,3 +3,8 @@ This is chat application
 emoji 
 colors 
 vibrant
+
+
+payment option
+send money
+receive money
